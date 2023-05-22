@@ -8,6 +8,7 @@ A powerful python based keylogger script which runs in background and captures k
 ## Usage
 
 ```bash
+❌ Create a Telegram Bot using Bot Father bot and put your Bot token and your telegram chat id in the code as mentioned there.  
 🪄 Run this python file in your victims machine by any means and see the magic.
 😈 You can integrate this script with a USB and make it autorun.
 ```
